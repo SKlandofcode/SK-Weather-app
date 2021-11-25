@@ -36,8 +36,8 @@ h6 {
   font-size: 15px;
   color: grey;
 }
-.container {
-  /*display: block;*/
+/*.container {
+  /*display: block;
   width: 750px;
   height: 400px;
   border: 1px solid rgb(190, 247, 255);
@@ -45,6 +45,13 @@ h6 {
 
   padding: 10px 20px;
   background-color: rgb(228, 235, 245);
+} */
+
+.container {
+  padding-top: 10px;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
 }
 .main {
   padding: 20px 10px;
@@ -69,15 +76,15 @@ h6 {
   font-size: 20px;
 }
 .cloud1 {
-  color: rgb(110, 106, 106);
-  font-size: 30px;
+  color: rgb(194, 188, 188);
+  font-size: 40px;
 }
 .cloud {
-  color: rgb(153, 149, 149);
+  color: rgb(89, 167, 231);
   font-size: 20px;
 }
 .rain {
-  color: rgb(70, 68, 68);
+  color: rgb(158, 149, 149);
   font-size: 25px;
 }
 .sun {

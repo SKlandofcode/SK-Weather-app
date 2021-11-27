@@ -1,7 +1,5 @@
 body {
   font-family: sans-serif;
-  padding: 0 20px;
-  background-image: url(images/max-larochelle-uu-Jw5SunYI-unsplash);
 }
 .logo {
   display: block;
@@ -34,7 +32,7 @@ h2 {
 h6 {
   font-weight: lighter;
   font-size: 15px;
-  color: grey;
+  color: rgb(253, 251, 251);
 }
 /*.container {
   /*display: block;
@@ -70,6 +68,14 @@ h6 {
 .current-city {
   display: block;
   position: center;
+}
+h3 {
+  color: rgb(218, 216, 216);
+
+  font-weight: 100;
+}
+#date {
+  color: rgb(231, 227, 227);
 }
 #celcius,
 #fahrenheit {

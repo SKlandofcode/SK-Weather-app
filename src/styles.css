@@ -22,7 +22,7 @@ input[type="submit"] {
 }
 li {
   list-style: none;
-  color: rgb(231, 227, 227);
+  /*color: rgb(231, 227, 227);*/
 }
 h5,
 h2 {
@@ -51,7 +51,6 @@ h6 {
   height: 100%;
   background-size: cover;
   background-position: center;
-  background-color: #11ffee00;
 }
 .main {
   padding: 20px 10px;
@@ -71,14 +70,14 @@ h6 {
   display: block;
   position: center;
 }
-h3 {
+/*h3 {
   color: rgb(218, 216, 216);
 
   font-weight: 100;
 }
 #date {
   color: rgb(231, 227, 227);
-}
+}*/
 #celcius,
 #fahrenheit {
   font-size: 20px;
